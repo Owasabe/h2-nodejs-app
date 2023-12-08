@@ -1,2 +1,2 @@
 # h2-nodejs-app
-This is a private example for a nodejs app and git for demonstration purposes
+This is an example nodejs app for git demonstration purposes
